@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""app.py main module"""
+"""the main flask module"""
 import os
 from models import storage
 from api.v1.views import app_views
